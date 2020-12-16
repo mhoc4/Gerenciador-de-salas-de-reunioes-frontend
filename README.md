@@ -1,27 +1,34 @@
-# ClientRoom
+# Gerenciador de salas de reuniões - front-end
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.12.
+**Este é o Front-end do projeto Gerenciador de salas de reuniões.**
 
-## Development server
+Ele possui o [back-end](https://github.com/mhoc4/Gerenciador-de-salas-de-reunioes).
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Feito através do live coding da professora Kamila Santos no bootcamp Everis FullStack Developer da plataforma Digital Innovation One.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Running unit tests
+Ele consome a API Gerenciador de salas de reuniões - back-end e é uma SPA escrita em Angular.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+**Features disponíveis:**
 
-## Running end-to-end tests
+- Criar sala de reuniao 
+- Listar todas as salas
+- Buscar uma sala pelo Id
+- Atualizar uma sala pelo Id
+- Excluir uma sala pelo id
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Como executar?
+
+Execute `ng serve` para iniciar. Abra `http://localhost:4200/`. O aplicativo irá atualizar automaticamente se você alterar qualquer arquivo e salva-lo.
+
+
+
+**Este projeto foi desenvolvido usando** [Angular CLI](https://github.com/angular/angular-cli) **versão 9.1.12.**
+
+
+
