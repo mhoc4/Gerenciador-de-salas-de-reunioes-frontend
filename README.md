@@ -6,12 +6,6 @@ Ele possui o [back-end](https://github.com/mhoc4/Gerenciador-de-salas-de-reunioe
 
 deploy: https://meeting-manager.vercel.app/
 
-Feito através do live coding da professora Kamila Santos.
-
-<<<<<<< HEAD
-=======
-Feito através do live coding da professora Kamila Santos.
->>>>>>> 789c14f8b3d4ac3750dc633db4c97cfb559d9869
 
 
 SPA escrita em Angular  que consome a API Gerenciador de salas de reuniões - back-end.
@@ -34,5 +28,5 @@ Execute `ng serve` para iniciar. Abra `http://localhost:4200/`. O aplicativo ir�
 
 **Este projeto foi desenvolvido usando** [Angular CLI](https://github.com/angular/angular-cli) **versão 9.1.12.**
 
-
+Feito através do live coding da professora Kamila Santos.
 
