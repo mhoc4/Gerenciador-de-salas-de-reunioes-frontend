@@ -8,6 +8,10 @@ deploy: https://meeting-manager.vercel.app/
 
 Feito através do live coding da professora Kamila Santos.
 
+<<<<<<< HEAD
+=======
+Feito através do live coding da professora Kamila Santos.
+>>>>>>> 789c14f8b3d4ac3750dc633db4c97cfb559d9869
 
 
 SPA escrita em Angular  que consome a API Gerenciador de salas de reuniões - back-end.
