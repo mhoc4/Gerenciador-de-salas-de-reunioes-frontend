@@ -1,1 +1,12 @@
-/* You can add global styles to this file, and also import other style files */
+.container {
+    display: flex;
+    align-self: center;
+    align-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.navbar.fixed-bottom.navbar-light.bg-light {
+    display: flex;
+    flex-direction: column;
+}

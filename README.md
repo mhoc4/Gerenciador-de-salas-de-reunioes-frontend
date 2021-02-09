@@ -18,14 +18,6 @@ SPA escrita em Angular  que consome a API Gerenciador de salas de reuniões - ba
 - Atualizar uma sala pelo Id
 - Excluir uma sala pelo id
 
-
-
-## Como executar?
-
-Execute `ng serve` para iniciar. Abra `http://localhost:4200/`. O aplicativo irá atualizar automaticamente se você alterar qualquer arquivo e salva-lo.
-
-
-
 **Este projeto foi desenvolvido usando** [Angular CLI](https://github.com/angular/angular-cli) **versão 9.1.12.**
 
 Feito através do live coding da professora Kamila Santos.
