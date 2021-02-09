@@ -10,7 +10,7 @@ Feito através do live coding da professora Kamila Santos no bootcamp Everis Ful
 
 
 
-Ele consome a API Gerenciador de salas de reuniões - back-end e é uma SPA escrita em Angular.
+SPA escrita em Angular  que consome a API Gerenciador de salas de reuniões - back-end.
 
 **Features disponíveis:**
 
