@@ -4,9 +4,9 @@
 
 Ele possui o [back-end](https://github.com/mhoc4/Gerenciador-de-salas-de-reunioes).
 
+deploy: https://meeting-manager.vercel.app/
 
-
-Feito através do live coding da professora Kamila Santos no bootcamp Everis FullStack Developer da plataforma Digital Innovation One.
+Feito através do live coding da professora Kamila Santos.
 
 
 
