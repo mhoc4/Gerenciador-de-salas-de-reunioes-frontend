@@ -1,0 +1,30 @@
+.navbar.navbar-light.bg-light {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+@media (min-height: 700px) {
+    .navbar.navbar-light.bg-light {
+        position: absolute;
+        bottom: 0px;
+    }
+}
+
+@media (max-width: 600px) {
+    .navbar-nav {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .nav-item {
+        padding-right: 8px;
+    }
+
+}
+
+@media (max-width: 321px) {
+    .card-body {
+        padding: 0px;
+    }
+}
