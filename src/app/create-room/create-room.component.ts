@@ -33,10 +33,10 @@ export class CreateRoomComponent implements OnInit {
 
   onSubmit() {
     this.submitted = true;
-    this.save();    
+    this.save();
   }
 
   gotoList() {
-    this.router.navigate(['rooms']);
+    this.router.navigate(['/rooms']);
   }
 }

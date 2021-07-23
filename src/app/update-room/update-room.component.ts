@@ -44,6 +44,6 @@ private router: Router, private roomService: RoomService) { }
   }
 
   gotoList() {
-    this.router.navigate(['rooms']);
+    this.router.navigate(['/rooms']);
   }
 }
