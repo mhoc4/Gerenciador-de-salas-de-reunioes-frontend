@@ -6,6 +6,8 @@ Ele possui o [back-end](https://github.com/mhoc4/Gerenciador-de-salas-de-reunioe
 
 deploy: https://meeting-manager.vercel.app/
 
+obs: Devido a versão gratuita do Heroku, o servidor pode demorar alguns segundos para sair do modo de hibernação.
+
 
 
 SPA escrita em Angular  que consome a API Gerenciador de salas de reuniões - back-end.
